@@ -1,0 +1,16 @@
+{
+  "name": "smallribs/hi_type",
+  "authors": [
+    {
+      "name": "XuXianghao",
+      "email": "smallribs@gmail.com"
+    }
+  ],
+
+  "require": {
+    "php": ">=5.3.0",
+    "filp/whoops": "*",
+    "ext-pdo": "*",
+    "ext-mysqli": "*"
+  }
+}
